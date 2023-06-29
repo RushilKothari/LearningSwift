@@ -11,7 +11,8 @@ struct TextBootcamp: View {
     var body: some View {
         Text("Hello, World! I am learning SwifUI today ".capitalized)
 //            .font(.body)
-            .fontWeight(.semibold)
+//            .fontWeight(.semibold)
+//            .fontDesign(.serif)
 //            .bold()
             .underline(true, pattern: .solid, color: .blue)
             .italic()
