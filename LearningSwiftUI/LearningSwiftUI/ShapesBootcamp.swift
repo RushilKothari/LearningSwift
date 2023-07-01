@@ -20,6 +20,7 @@ struct ShapesBootcamp: View {
 //            .trim(from: 0.2, to: 1.0)
             .stroke(.cyan, style: StrokeStyle(lineWidth: 20, lineCap: .round, lineJoin: .bevel, miterLimit: 10, dash: [20], dashPhase: 00))
             .frame(width: 100, height: 100, alignment: .center)
+            .opacity(0.5)
 //    MARK: Properties of StrokeStyle
 //   - lineWidth: The width of the segment.
 //   - lineCap: The endpoint style of a segment.
