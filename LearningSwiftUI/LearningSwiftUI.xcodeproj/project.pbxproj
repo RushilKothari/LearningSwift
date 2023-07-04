@@ -18,6 +18,7 @@
 		CED83E3E2A542DC1002BD1F0 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED83E3D2A542DC1002BD1F0 /* IconsBootcamp.swift */; };
 		CED83E402A543237002BD1F0 /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED83E3F2A543237002BD1F0 /* ImageBootcamp.swift */; };
 		CED83E422A5434D9002BD1F0 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED83E412A5434D9002BD1F0 /* FrameBootcamp.swift */; };
+		CED83E442A5474C0002BD1F0 /* BackgroundOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED83E432A5474C0002BD1F0 /* BackgroundOverlayBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		CED83E3D2A542DC1002BD1F0 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		CED83E3F2A543237002BD1F0 /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		CED83E412A5434D9002BD1F0 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
+		CED83E432A5474C0002BD1F0 /* BackgroundOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				CED83E3D2A542DC1002BD1F0 /* IconsBootcamp.swift */,
 				CED83E3F2A543237002BD1F0 /* ImageBootcamp.swift */,
 				CED83E412A5434D9002BD1F0 /* FrameBootcamp.swift */,
+				CED83E432A5474C0002BD1F0 /* BackgroundOverlayBootcamp.swift */,
 				CE4EEB142A4D7C2C0042C9C3 /* Assets.xcassets */,
 				CE4EEB162A4D7C2C0042C9C3 /* Preview Content */,
 			);
@@ -165,6 +168,7 @@
 				CE4EEB132A4D7C2B0042C9C3 /* ContentView.swift in Sources */,
 				CE4EEB1F2A4D7C520042C9C3 /* TextBootcamp.swift in Sources */,
 				CE4EEB112A4D7C2B0042C9C3 /* LearningSwiftUIApp.swift in Sources */,
+				CED83E442A5474C0002BD1F0 /* BackgroundOverlayBootcamp.swift in Sources */,
 				CED83E402A543237002BD1F0 /* ImageBootcamp.swift in Sources */,
 				CED83E3E2A542DC1002BD1F0 /* IconsBootcamp.swift in Sources */,
 			);
