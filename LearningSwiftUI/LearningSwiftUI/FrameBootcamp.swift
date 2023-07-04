@@ -14,7 +14,7 @@ struct FrameBootcamp: View {
 //            .frame(width: 300, height: 300, alignment: .center)
 //            .frame(maxWidth: .infinity, maxHeight: .infinity ,alignment: .center)
 //            .background(Color.red)
-            .frame(height: 100, alignment: .top)
+            .frame(height: 100, alignment: .bottom)
             .background(Color.orange)
             .frame(width: 150)
             .background(Color.purple)
