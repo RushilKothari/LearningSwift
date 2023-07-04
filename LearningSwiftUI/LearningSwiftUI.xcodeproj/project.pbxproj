@@ -15,6 +15,7 @@
 		CEA2CFF52A4D7F5800BA8C3C /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA2CFF42A4D7F5800BA8C3C /* ShapesBootcamp.swift */; };
 		CED83E3A2A5020B4002BD1F0 /* ColorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED83E392A5020B4002BD1F0 /* ColorBootcamp.swift */; };
 		CED83E3C2A502A79002BD1F0 /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED83E3B2A502A79002BD1F0 /* GradientsBootcamp.swift */; };
+		CED83E3E2A542DC1002BD1F0 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED83E3D2A542DC1002BD1F0 /* IconsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		CEA2CFF42A4D7F5800BA8C3C /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		CED83E392A5020B4002BD1F0 /* ColorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootcamp.swift; sourceTree = "<group>"; };
 		CED83E3B2A502A79002BD1F0 /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
+		CED83E3D2A542DC1002BD1F0 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				CE4EEB102A4D7C2B0042C9C3 /* LearningSwiftUIApp.swift */,
 				CE4EEB122A4D7C2B0042C9C3 /* ContentView.swift */,
 				CE4EEB1E2A4D7C520042C9C3 /* TextBootcamp.swift */,
+				CED83E3D2A542DC1002BD1F0 /* IconsBootcamp.swift */,
 				CEA2CFF42A4D7F5800BA8C3C /* ShapesBootcamp.swift */,
 				CED83E3B2A502A79002BD1F0 /* GradientsBootcamp.swift */,
 				CED83E392A5020B4002BD1F0 /* ColorBootcamp.swift */,
@@ -155,6 +158,7 @@
 				CE4EEB132A4D7C2B0042C9C3 /* ContentView.swift in Sources */,
 				CE4EEB1F2A4D7C520042C9C3 /* TextBootcamp.swift in Sources */,
 				CE4EEB112A4D7C2B0042C9C3 /* LearningSwiftUIApp.swift in Sources */,
+				CED83E3E2A542DC1002BD1F0 /* IconsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
